@@ -1,0 +1,8 @@
+bosch - 1.22
+bosch - 1.23
+argentine - 2.33
+bacillus - 2.33
+back - 3.44
+aardvark - 3.46
+argentine - 5.66
+aardvark - 12.35

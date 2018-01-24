@@ -1,0 +1,8 @@
+Clean Code: A Handbook of Agile Software Craftsmanship, ISBN: 978-0132350884
+The Pragmatic Programmer: From Journeyman to Master, ISBN: 978-0201616224
+The Idiot, ISBN: 978-0375413926
+Operating Systems Concepts 8th Edition, ISBN: 978-0470128725
+Operating Systems Concepts 9th Edition, ISBN: 978-1118063330
+C Programming Language 2nd Edition, ISBN: 978-0131103627
+The Martian, ISBN: 978-0553418026
+The Time Machine, ISBN: 1979430896

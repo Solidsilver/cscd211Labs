@@ -1,0 +1,22 @@
+Please enter the name of the input file motors.txt
+After the Array is Filled!
+bosch - 1.23
+bosch - 1.22
+bacillus - 2.33
+back - 3.44
+argentine - 5.66
+argentine - 2.33
+aardvark - 12.35
+aardvark - 3.46
+
+After the Array is Sorted!
+aardvark - 3.46
+aardvark - 12.35
+argentine - 2.33
+argentine - 5.66
+bacillus - 2.33
+back - 3.44
+bosch - 1.22
+bosch - 1.23
+
+Please enter the name of the output file out.txt

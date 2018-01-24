@@ -1,0 +1,505 @@
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 2
+Enter a Boxcar: HelloBoxcar
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 2
+Enter a Boxcar: HelloBoxcar
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 2
+Enter a Boxcar: LastBoxcar
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 2
+Enter a Boxcar: FirstBoxcar
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 4
+Enter a Boxcar: MiddleBoxcar
+Index: 2
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 1
+FirstBoxcar, LastBoxcar, MiddleBoxcar, HelloBoxcar, HelloBoxcar, 
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 3
+Enter a Boxcar: RealLastBoxcar
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 1
+FirstBoxcar, LastBoxcar, MiddleBoxcar, HelloBoxcar, HelloBoxcar, RealLastBoxcar, 
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 5
+Enter a Boxcar: HelloBoxcar
+The results of contains true
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 4
+Enter a Boxcar: HelloBoxcar
+Index: 1
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 1
+FirstBoxcar, HelloBoxcar, LastBoxcar, MiddleBoxcar, HelloBoxcar, HelloBoxcar, RealLastBoxcar, 
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 6
+Enter a Boxcar: MiddleBoxcar
+The results of indexOf 3
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 1
+FirstBoxcar, HelloBoxcar, LastBoxcar, MiddleBoxcar, HelloBoxcar, HelloBoxcar, RealLastBoxcar, 
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 11
+Enter a Boxcar: HelloBoxcar
+The results of contains true
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 1
+FirstBoxcar, HelloBoxcar, LastBoxcar, MiddleBoxcar, HelloBoxcar, RealLastBoxcar, 
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 3
+Enter a Boxcar: HelloBoxcar
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 1
+FirstBoxcar, HelloBoxcar, LastBoxcar, MiddleBoxcar, HelloBoxcar, RealLastBoxcar, HelloBoxcar, 
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 11
+Enter a Boxcar: HelloBoxcar
+The results of contains true
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 1
+FirstBoxcar, HelloBoxcar, LastBoxcar, MiddleBoxcar, HelloBoxcar, RealLastBoxcar, 
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 10
+Enter a Boxcar: HelloBoxcar
+The results of contains true
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 1
+FirstBoxcar, LastBoxcar, MiddleBoxcar, HelloBoxcar, RealLastBoxcar, 
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 9
+Index: 2
+The results of remove MiddleBoxcar
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 1
+FirstBoxcar, LastBoxcar, HelloBoxcar, RealLastBoxcar, 
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 7
+The results of remove FirstBoxcar
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 1
+LastBoxcar, HelloBoxcar, RealLastBoxcar, 
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 8
+The results of remove RealLastBoxcar
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 1
+LastBoxcar, HelloBoxcar, 
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 13
+List size: 2
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 12
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 1
+Empty List
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> -3
+You must enter a valid menu number
+Program ending
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 17
+You must enter a valid menu number
+Program ending
+1) Print the List 
+2) Create a BoxCar and addFirst 
+3) Create a BoxCar and addLast 
+4) Create a BoxCar, read and index and add -- at the index 
+5) Create a BoxCar, check the list to see if the list contains the BoxCar 
+6) Create a BoxCar, find the indexOf that BoxCar 
+7) removeFirst 
+8) removeLast 
+9) Read index remove Node at that index 
+10) Create a BoxCar and removeFirstOccurrence of that BoxCar 
+11) Create a BoxCar and removeLastOccurrence of that BoxCar 
+12) clear the list 
+13) Print the size of the list
+> 14
+You must enter a valid menu number
+Program ending

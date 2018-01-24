@@ -1,0 +1,63 @@
+7
+Operating Systems Concepts 8th Edition
+978-0470128725
+972
+Education
+John Wiley & Sons
+Hoboken
+3
+Abraham Siblerschatz
+Peter Baer Galvin
+Greg Gagne
+Operating Systems Concepts 9th Edition
+978-1118063330
+944
+Education
+John Wiley & Sons
+Hoboken
+2
+Abraham Siblerschatz
+Greg Gagne
+The Martian
+978-0553418026
+387
+Fiction
+Broadway Books
+Portland
+1
+Andy Weir
+C Programming Language 2nd Edition
+978-0131103627
+272
+Education
+Prentice Hall
+Upper Saddle River
+2
+Brian W. Kernighan
+Dennis M. Ritchie
+The Pragmatic Programmer: From Journeyman to Master
+978-0201616224
+352
+Education
+Addison-Wesley Professional
+Boston
+2
+Andrew Hunt
+David Thomas
+Clean Code: A Handbook of Agile Software Craftsmanship
+978-0132350884
+464
+Education
+Prentice Hall
+Upper Saddle River
+1
+Robert C. Martin
+The Time Machine
+1979430896
+144
+Sci-Fi
+Atria Books
+New York City
+1
+H.G. Wells
+

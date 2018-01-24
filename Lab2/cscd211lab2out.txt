@@ -1,0 +1,327 @@
+Please enter the name of the input file: people.csv
+
+1. Print the Array to the screen
+2. Display all people that contain a certain color
+3. Sort the array by Color
+4. Sort the array by the 'natural order'
+5. Quit
+~~> 0
+You must enter a valid menu number
+
+1. Print the Array to the screen
+2. Display all people that contain a certain color
+3. Sort the array by Color
+4. Sort the array by the 'natural order'
+5. Quit
+~~> 6
+You must enter a valid menu number
+
+1. Print the Array to the screen
+2. Display all people that contain a certain color
+3. Sort the array by Color
+4. Sort the array by the 'natural order'
+5. Quit
+~~> 1
+Alfonso Blair, Red
+Ben Bryant, Red
+Stephaine Bryson, Blue
+Elsie Burns, Purple
+Francis Byrd, Blue
+Elvin Colby, Green
+Jaime Cortez, Red
+Griselda Coyle, Blue
+Lois Douglas, Green
+Jacquetta Ferrari, Green
+Cherise Fish, Pink
+Clay Flores, Green
+Lovie Forrester, Green
+Claire Grant, Pink
+Claire Grant, Red
+Joey Gray, Pink
+John Gray, Blue
+Jorge Gray, Pink
+Monique Henry, Red
+York Henry, Blue
+Levi Herrera, Red
+Faith Hillstrom, Purple
+Dan Hindle, Purple
+Dan Hines, Purple
+Bernadette Hodges, Purple
+Dominic Holland, Blue
+Dexter Holloway, Red
+Allen Hubbard, Blue
+Caroline Jimenez, Pink
+Patricia Johnston, Purple
+Leona King, Green
+Dannie Lai, Purple
+Eric Lewis, Green
+Muriel Lyons, Blue
+Cassaundra Martz, Red
+Kelly Moss, Pink
+Leon Mullis, Blue
+Damon Oliver, Pink
+Myron Owen, Purple
+Brendan Palmer, Blue
+Patrick Robbins, Green
+Lester Rodriguez, Red
+Miranda Romero, Green
+Darrell Ryan, Purple
+Glen Schmidt, Green
+Samuel Sherman, Purple
+Dave Smith, Green
+Dave Smith, Red
+Winston Strickland, Green
+Sally sue Sullivan, Green
+Eli Torres, Blue
+Emma Torres, Green
+Spencer Torres, Blue
+Bubba Von bigbelly, Purple
+Krista Wells, Pink
+Gwen White, Green
+Cori Zarate, Purple
+
+1. Print the Array to the screen
+2. Display all people that contain a certain color
+3. Sort the array by Color
+4. Sort the array by the 'natural order'
+5. Quit
+~~> 2
+Color: red
+Alfonso Blair, Red
+Ben Bryant, Red
+Jaime Cortez, Red
+Claire Grant, Red
+Monique Henry, Red
+Levi Herrera, Red
+Dexter Holloway, Red
+Cassaundra Martz, Red
+Lester Rodriguez, Red
+Dave Smith, Red
+
+1. Print the Array to the screen
+2. Display all people that contain a certain color
+3. Sort the array by Color
+4. Sort the array by the 'natural order'
+5. Quit
+~~> 2
+Color: green
+Elvin Colby, Green
+Lois Douglas, Green
+Jacquetta Ferrari, Green
+Clay Flores, Green
+Lovie Forrester, Green
+Leona King, Green
+Eric Lewis, Green
+Patrick Robbins, Green
+Miranda Romero, Green
+Glen Schmidt, Green
+Dave Smith, Green
+Winston Strickland, Green
+Sally sue Sullivan, Green
+Emma Torres, Green
+Gwen White, Green
+
+1. Print the Array to the screen
+2. Display all people that contain a certain color
+3. Sort the array by Color
+4. Sort the array by the 'natural order'
+5. Quit
+~~> 2
+Color: blue
+Stephaine Bryson, Blue
+Francis Byrd, Blue
+Griselda Coyle, Blue
+John Gray, Blue
+York Henry, Blue
+Dominic Holland, Blue
+Allen Hubbard, Blue
+Muriel Lyons, Blue
+Leon Mullis, Blue
+Brendan Palmer, Blue
+Eli Torres, Blue
+Spencer Torres, Blue
+
+1. Print the Array to the screen
+2. Display all people that contain a certain color
+3. Sort the array by Color
+4. Sort the array by the 'natural order'
+5. Quit
+~~> 2
+Color: purple
+Elsie Burns, Purple
+Faith Hillstrom, Purple
+Dan Hindle, Purple
+Dan Hines, Purple
+Bernadette Hodges, Purple
+Patricia Johnston, Purple
+Dannie Lai, Purple
+Myron Owen, Purple
+Darrell Ryan, Purple
+Samuel Sherman, Purple
+Bubba Von bigbelly, Purple
+Cori Zarate, Purple
+
+1. Print the Array to the screen
+2. Display all people that contain a certain color
+3. Sort the array by Color
+4. Sort the array by the 'natural order'
+5. Quit
+~~> 2
+Color: pink
+Cherise Fish, Pink
+Claire Grant, Pink
+Joey Gray, Pink
+Jorge Gray, Pink
+Caroline Jimenez, Pink
+Kelly Moss, Pink
+Damon Oliver, Pink
+Krista Wells, Pink
+
+1. Print the Array to the screen
+2. Display all people that contain a certain color
+3. Sort the array by Color
+4. Sort the array by the 'natural order'
+5. Quit
+~~> 3
+
+1. Print the Array to the screen
+2. Display all people that contain a certain color
+3. Sort the array by Color
+4. Sort the array by the 'natural order'
+5. Quit
+~~> 1
+Stephaine Bryson, Blue
+Francis Byrd, Blue
+Griselda Coyle, Blue
+John Gray, Blue
+York Henry, Blue
+Dominic Holland, Blue
+Allen Hubbard, Blue
+Muriel Lyons, Blue
+Leon Mullis, Blue
+Brendan Palmer, Blue
+Eli Torres, Blue
+Spencer Torres, Blue
+Elvin Colby, Green
+Lois Douglas, Green
+Jacquetta Ferrari, Green
+Clay Flores, Green
+Lovie Forrester, Green
+Leona King, Green
+Eric Lewis, Green
+Patrick Robbins, Green
+Miranda Romero, Green
+Glen Schmidt, Green
+Dave Smith, Green
+Winston Strickland, Green
+Sally sue Sullivan, Green
+Emma Torres, Green
+Gwen White, Green
+Cherise Fish, Pink
+Claire Grant, Pink
+Joey Gray, Pink
+Jorge Gray, Pink
+Caroline Jimenez, Pink
+Kelly Moss, Pink
+Damon Oliver, Pink
+Krista Wells, Pink
+Elsie Burns, Purple
+Faith Hillstrom, Purple
+Dan Hindle, Purple
+Dan Hines, Purple
+Bernadette Hodges, Purple
+Patricia Johnston, Purple
+Dannie Lai, Purple
+Myron Owen, Purple
+Darrell Ryan, Purple
+Samuel Sherman, Purple
+Bubba Von bigbelly, Purple
+Cori Zarate, Purple
+Alfonso Blair, Red
+Ben Bryant, Red
+Jaime Cortez, Red
+Claire Grant, Red
+Monique Henry, Red
+Levi Herrera, Red
+Dexter Holloway, Red
+Cassaundra Martz, Red
+Lester Rodriguez, Red
+Dave Smith, Red
+
+1. Print the Array to the screen
+2. Display all people that contain a certain color
+3. Sort the array by Color
+4. Sort the array by the 'natural order'
+5. Quit
+~~> 4
+
+1. Print the Array to the screen
+2. Display all people that contain a certain color
+3. Sort the array by Color
+4. Sort the array by the 'natural order'
+5. Quit
+~~> 1
+Alfonso Blair, Red
+Ben Bryant, Red
+Stephaine Bryson, Blue
+Elsie Burns, Purple
+Francis Byrd, Blue
+Elvin Colby, Green
+Jaime Cortez, Red
+Griselda Coyle, Blue
+Lois Douglas, Green
+Jacquetta Ferrari, Green
+Cherise Fish, Pink
+Clay Flores, Green
+Lovie Forrester, Green
+Claire Grant, Pink
+Claire Grant, Red
+Joey Gray, Pink
+John Gray, Blue
+Jorge Gray, Pink
+Monique Henry, Red
+York Henry, Blue
+Levi Herrera, Red
+Faith Hillstrom, Purple
+Dan Hindle, Purple
+Dan Hines, Purple
+Bernadette Hodges, Purple
+Dominic Holland, Blue
+Dexter Holloway, Red
+Allen Hubbard, Blue
+Caroline Jimenez, Pink
+Patricia Johnston, Purple
+Leona King, Green
+Dannie Lai, Purple
+Eric Lewis, Green
+Muriel Lyons, Blue
+Cassaundra Martz, Red
+Kelly Moss, Pink
+Leon Mullis, Blue
+Damon Oliver, Pink
+Myron Owen, Purple
+Brendan Palmer, Blue
+Patrick Robbins, Green
+Lester Rodriguez, Red
+Miranda Romero, Green
+Darrell Ryan, Purple
+Glen Schmidt, Green
+Samuel Sherman, Purple
+Dave Smith, Green
+Dave Smith, Red
+Winston Strickland, Green
+Sally sue Sullivan, Green
+Eli Torres, Blue
+Emma Torres, Green
+Spencer Torres, Blue
+Bubba Von bigbelly, Purple
+Krista Wells, Pink
+Gwen White, Green
+Cori Zarate, Purple
+
+1. Print the Array to the screen
+2. Display all people that contain a certain color
+3. Sort the array by Color
+4. Sort the array by the 'natural order'
+5. Quit
+~~> 5

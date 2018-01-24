@@ -1,0 +1,160 @@
+Please enter the name of the input file books3.txt
+
+1. Print the books to the screen
+2. Print the books to a file
+3. Sort the book using compareTo
+4. Sort the books by first author as a Comparator
+5. Add a book
+6. Quit
+~~> 1
+Operating Systems Concepts 8th Edition, ISBN: 978-0470128725
+Operating Systems Concepts 9th Edition, ISBN: 978-1118063330
+The Martian, ISBN: 978-0553418026
+C Programming Language 2nd Edition, ISBN: 978-0131103627
+The Pragmatic Programmer: From Journeyman to Master, ISBN: 978-0201616224
+Clean Code: A Handbook of Agile Software Craftsmanship, ISBN: 978-0132350884
+The Time Machine, ISBN: 1979430896
+
+1. Print the books to the screen
+2. Print the books to a file
+3. Sort the book using compareTo
+4. Sort the books by first author as a Comparator
+5. Add a book
+6. Quit
+~~> 3
+
+1. Print the books to the screen
+2. Print the books to a file
+3. Sort the book using compareTo
+4. Sort the books by first author as a Comparator
+5. Add a book
+6. Quit
+~~> 1
+The Pragmatic Programmer: From Journeyman to Master, ISBN: 978-0201616224
+The Time Machine, ISBN: 1979430896
+The Martian, ISBN: 978-0553418026
+Operating Systems Concepts 8th Edition, ISBN: 978-0470128725
+Operating Systems Concepts 9th Edition, ISBN: 978-1118063330
+C Programming Language 2nd Edition, ISBN: 978-0131103627
+Clean Code: A Handbook of Agile Software Craftsmanship, ISBN: 978-0132350884
+
+1. Print the books to the screen
+2. Print the books to a file
+3. Sort the book using compareTo
+4. Sort the books by first author as a Comparator
+5. Add a book
+6. Quit
+~~> 4
+
+1. Print the books to the screen
+2. Print the books to a file
+3. Sort the book using compareTo
+4. Sort the books by first author as a Comparator
+5. Add a book
+6. Quit
+~~> 1
+Clean Code: A Handbook of Agile Software Craftsmanship, ISBN: 978-0132350884
+The Pragmatic Programmer: From Journeyman to Master, ISBN: 978-0201616224
+Operating Systems Concepts 8th Edition, ISBN: 978-0470128725
+Operating Systems Concepts 9th Edition, ISBN: 978-1118063330
+C Programming Language 2nd Edition, ISBN: 978-0131103627
+The Martian, ISBN: 978-0553418026
+The Time Machine, ISBN: 1979430896
+
+1. Print the books to the screen
+2. Print the books to a file
+3. Sort the book using compareTo
+4. Sort the books by first author as a Comparator
+5. Add a book
+6. Quit
+~~> 5
+Title: The Idiot
+ISBN: 978-0375413926
+# of Pages: 672
+Genre: Fiction
+Publisher Name: Everyman's Library
+Publisher City: New York City
+Author(s) (for more than one: author1, author2, etc.): Fyodor Mikhailovich Dostoevsky
+
+1. Print the books to the screen
+2. Print the books to a file
+3. Sort the book using compareTo
+4. Sort the books by first author as a Comparator
+5. Add a book
+6. Quit
+~~> 1
+The Pragmatic Programmer: From Journeyman to Master, ISBN: 978-0201616224
+The Time Machine, ISBN: 1979430896
+The Martian, ISBN: 978-0553418026
+The Idiot, ISBN: 978-0375413926
+Operating Systems Concepts 8th Edition, ISBN: 978-0470128725
+Operating Systems Concepts 9th Edition, ISBN: 978-1118063330
+C Programming Language 2nd Edition, ISBN: 978-0131103627
+Clean Code: A Handbook of Agile Software Craftsmanship, ISBN: 978-0132350884
+
+1. Print the books to the screen
+2. Print the books to a file
+3. Sort the book using compareTo
+4. Sort the books by first author as a Comparator
+5. Add a book
+6. Quit
+~~> 3
+
+1. Print the books to the screen
+2. Print the books to a file
+3. Sort the book using compareTo
+4. Sort the books by first author as a Comparator
+5. Add a book
+6. Quit
+~~> 1
+The Pragmatic Programmer: From Journeyman to Master, ISBN: 978-0201616224
+The Time Machine, ISBN: 1979430896
+The Martian, ISBN: 978-0553418026
+The Idiot, ISBN: 978-0375413926
+Operating Systems Concepts 8th Edition, ISBN: 978-0470128725
+Operating Systems Concepts 9th Edition, ISBN: 978-1118063330
+C Programming Language 2nd Edition, ISBN: 978-0131103627
+Clean Code: A Handbook of Agile Software Craftsmanship, ISBN: 978-0132350884
+
+1. Print the books to the screen
+2. Print the books to a file
+3. Sort the book using compareTo
+4. Sort the books by first author as a Comparator
+5. Add a book
+6. Quit
+~~> 4
+
+1. Print the books to the screen
+2. Print the books to a file
+3. Sort the book using compareTo
+4. Sort the books by first author as a Comparator
+5. Add a book
+6. Quit
+~~> 1
+Clean Code: A Handbook of Agile Software Craftsmanship, ISBN: 978-0132350884
+The Pragmatic Programmer: From Journeyman to Master, ISBN: 978-0201616224
+The Idiot, ISBN: 978-0375413926
+Operating Systems Concepts 8th Edition, ISBN: 978-0470128725
+Operating Systems Concepts 9th Edition, ISBN: 978-1118063330
+C Programming Language 2nd Edition, ISBN: 978-0131103627
+The Martian, ISBN: 978-0553418026
+The Time Machine, ISBN: 1979430896
+
+1. Print the books to the screen
+2. Print the books to a file
+3. Sort the book using compareTo
+4. Sort the books by first author as a Comparator
+5. Add a book
+6. Quit
+~~> 2
+Output File Name: outBooks3.txt
+
+1. Print the books to the screen
+2. Print the books to a file
+3. Sort the book using compareTo
+4. Sort the books by first author as a Comparator
+5. Add a book
+6. Quit
+~~> 6
+Program Ending
+
