@@ -92,12 +92,17 @@ public class LinkedList {
 		if (this.size == 0) {
 			throw new NoSuchElementException("List is Empty");
 		}
-		Node cur = this.head;
-		for (int count = 0; count < this.size - 2; count++) {
+		if (this.size == 1) {
+			return this.removeFirst();
+		}
+		Node cur = this.head, prev = null;
+		while (cur.next != null) {
+			prev = cur;
 			cur = cur.next;
 		}
-		Comparable removed = cur.next.data;
-		cur.next = null;
+		Comparable removed = cur.data;
+		cur = null;
+		prev.next = null;
 		this.size --;
 		return removed;
 	}

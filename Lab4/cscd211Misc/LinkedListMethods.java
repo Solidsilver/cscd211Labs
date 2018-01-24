@@ -28,9 +28,13 @@ public class LinkedListMethods {
 					"11) Create a BoxCar and removeLastOccurrence of that BoxCar \n" + 
 					"12) clear the list \n" + 
 					"13) Print the size of the list\n> ");
-			itm = Integer.parseInt(kb.nextLine());
+			try {
+				itm = Integer.parseInt(kb.nextLine());
+			} catch (Exception e) {
+				System.out.println("Not an integer");
+			}
 			if (itm < 1 || itm > 13) {
-				System.out.println("You must enter a valid menu number");
+				System.out.println("You must enter a valid menu option");
 				try {
 					Thread.sleep(1000);
 				} catch (Exception e) {
@@ -39,7 +43,6 @@ public class LinkedListMethods {
 			}
 		} while (itm < 0 && itm > 14);
 		return itm;
-		
 	}
 	
 	public static BoxCar createBoxCar(final Scanner kb) {
