@@ -175,12 +175,12 @@ public class LinkedList {
 		int ix = this.indexOf(item);
 		if (ix > 0) {
 			this.remove(ix);
+	// Adds the given item to the beginning of the list
 			return true;
 		}
 		return false;
 	}
 	
-	// Adds the given item to the beginning of the list
 	public void addLast(final Comparable item) {
 		if (item == null) {
 			throw new NullPointerException("Item cannot be null");
