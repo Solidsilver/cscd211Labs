@@ -227,4 +227,23 @@ public class LinkedList {
 		return false;
 	}
 
+	// Sorts data in list using Selection Sort
+	public void sort() {
+		if (this.size > 1) {
+			Node start, search, min;
+			Comparable temp;
+			for (start = this.head; start.next != null; start = start.next) {
+				min = start;
+				for (search = start.next; search != null; search = search.next) {
+					if (search.data.compareTo(min.data) < 0) {
+						min = search;
+					}
+				}
+				temp = min.data;
+				min.data = start.data;
+				start.data = temp;
+			}
+		}
+	}
+
 } // end of LinkedList class
