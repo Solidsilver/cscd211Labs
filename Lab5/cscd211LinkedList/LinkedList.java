@@ -57,7 +57,7 @@ public class LinkedList {
 	}
 	
 	public boolean addAll(int index, Comparable[] array) {
-		if (array = null) {
+		if (array == null) {
 			throw new NullPointerException("Array cannot be null");
 		}
 		if (index < 0 || index > this.size) {
