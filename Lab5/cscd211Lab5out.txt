@@ -1,0 +1,444 @@
+Enter a Boxcar: tsdf
+Enter a Boxcar: 123
+Enter a Boxcar: 234
+Enter a Boxcar: 345
+Enter a Boxcar: 456
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 1
+tsdf, 123, 234, 345, 456, 
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 2
+Enter a Boxcar: ENDOR
+The results of add true
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 1
+tsdf, 123, 234, 345, 456, ENDOR, 
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 3
+Enter a Boxcar: Endoor3
+Enter a Boxcar: Endor2
+Enter a Boxcar: EndorENDDD
+Index: 5
+The results of addAll true
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 1
+tsdf, 123, 234, 345, 456, Endoor3, Endor2, EndorENDDD, ENDOR, 
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 3
+Enter a Boxcar: Nomans1
+Enter a Boxcar: Nomand
+Enter a Boxcar: end
+Index: 9
+The results of addAll true
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 1
+tsdf, 123, 234, 345, 456, Endoor3, Endor2, EndorENDDD, ENDOR, Nomans1, Nomand, end, 
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 3
+Enter a Boxcar: Orient
+Enter a Boxcar: MyHeart
+Enter a Boxcar: Away
+Index: 0
+The results of addAll true
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 1
+Orient, MyHeart, Away, tsdf, 123, 234, 345, 456, Endoor3, Endor2, EndorENDDD, ENDOR, Nomans1, Nomand, end, 
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 4
+Index: 0
+The results of get Orient
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 1
+Orient, MyHeart, Away, tsdf, 123, 234, 345, 456, Endoor3, Endor2, EndorENDDD, ENDOR, Nomans1, Nomand, end, 
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 4
+Index: 14
+The results of get end
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 4
+Index: 7
+The results of get 456
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 1
+Orient, MyHeart, Away, tsdf, 123, 234, 345, 456, Endoor3, Endor2, EndorENDDD, ENDOR, Nomans1, Nomand, end, 
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 5
+The results of getLast end
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 6
+The results of remove Orient
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 1
+MyHeart, Away, tsdf, 123, 234, 345, 456, Endoor3, Endor2, EndorENDDD, ENDOR, Nomans1, Nomand, end, 
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 7
+Index: 0
+The results of remove MyHeart
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 1
+Away, tsdf, 123, 234, 345, 456, Endoor3, Endor2, EndorENDDD, ENDOR, Nomans1, Nomand, end, 
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 7
+Index: 12
+The results of remove end
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 7
+Index: 4
+The results of remove 345
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 1
+Away, tsdf, 123, 234, 456, Endoor3, Endor2, EndorENDDD, ENDOR, Nomans1, Nomand, 
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 8
+The results of removeLast Nomand
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 1
+Away, tsdf, 123, 234, 456, Endoor3, Endor2, EndorENDDD, ENDOR, Nomans1, 
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 9
+Away tsdf 123 234 456 Endoor3 Endor2 EndorENDDD ENDOR Nomans1 
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 11
+List size: 10
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 10
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 1
+Empty List
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 0
+You must enter a valid menu option
+Program ending
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> -1
+You must enter a valid menu option
+Program ending
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 14
+You must enter a valid menu option
+Program ending
+1) Print the List 
+2) Create a BoxCar and append the specified element to the end of this list. 
+3) addAll(index, array) 
+4) Read an index and get the data at that index 
+5) getLast 
+6) remove 
+7) removeIndex 
+8) removeLast 
+9) toArray 
+10) clear the list 
+11) Print the size of the list 
+> 12
+You must enter a valid menu option
+Program ending
+
