@@ -1,0 +1,17 @@
+Undergrad Student -- Name: Zach Burrow ID: 887766 Grad: 2016
+Undergrad Student -- Name: Steve Steiner ID: 777 Grad: 2018
+Grad Student -- Name: Stu Steiner ID: 666
+Undergrad Student -- Name: Mehdi Ghazlane ID: 55556 Grad: 2017
+Grad Student -- Name: Charles Zahara ID: 665533
+
+Grad Student -- Name: Charles Zahara ID: 665533
+Undergrad Student -- Name: Mehdi Ghazlane ID: 55556 Grad: 2017
+Undergrad Student -- Name: Steve Steiner ID: 777 Grad: 2018
+Grad Student -- Name: Stu Steiner ID: 666
+Undergrad Student -- Name: Zach Burrow ID: 887766 Grad: 2016
+
+Grad Student -- Name: Stu Steiner ID: 666
+Grad Student -- Name: Charles Zahara ID: 665533
+Undergrad Student -- Name: Steve Steiner ID: 777 Grad: 2018
+Undergrad Student -- Name: Mehdi Ghazlane ID: 55556 Grad: 2017
+Undergrad Student -- Name: Zach Burrow ID: 887766 Grad: 2016

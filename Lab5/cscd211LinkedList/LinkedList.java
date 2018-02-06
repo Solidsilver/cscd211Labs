@@ -161,8 +161,9 @@ public class LinkedList {
 	public Comparable[] toArray() {
 		Comparable[] arr = new Comparable[this.size];
 		Node cur = this.head.next;
+		
 		for (int index = 0; index < this.size; index++) {
-			arr[index] = cur.data;
+			arr[index] = new Node(cur.data).data;
 			cur = cur.next;
 		}
 		return arr;

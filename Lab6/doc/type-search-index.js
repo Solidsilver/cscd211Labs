@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"cscd211Lab6","l":"CSCD211Lab6"},{"p":"cscd211Inheritance","l":"Grad"},{"p":"cscd211Inheritance","l":"Student"},{"p":"cscd211Comparator","l":"TypeSort"},{"p":"cscd211Inheritance","l":"Undergrad"}]
