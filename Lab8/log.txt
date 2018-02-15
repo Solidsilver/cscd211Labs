@@ -1,0 +1,124 @@
+Driver: Sexy Stu Steiner
+Truck Package Capacity: 8
+
+----- New package -----
+Type: letter
+Shipping Viability: Ready to ship
+Package info: 
+• Tracking Number: 123450, Weight: 10, Length:12, Width:12
+Package was loaded successfully
+
+----- New package -----
+Type: box
+Shipping Viability: Ready to ship
+Package info: 
+• Tracking Number: 55555551, Weight: 99, Length:36, Width:36, height: 36
+Package was loaded successfully
+
+----- New package -----
+Type: letter
+Shipping Viability: Ready to ship
+Package info: 
+• Tracking Number: 123890, Weight: 20, Length:10, Width:10
+Package was loaded successfully
+
+----- New package -----
+Type: metal crate
+Shipping Viability: Ready to ship
+Package info: 
+• Tracking Number: 656562, Weight: 50, Length:36, Width:36, Height: 37, Contents: animal
+Package was loaded successfully
+
+----- New package -----
+Type: wooden crate
+Shipping Viability: Ready to ship
+Package info: 
+• Tracking Number: 324251223, Weight: 50, Length:5, Width:5, Height: 5, Contents: fragile
+Package was loaded successfully
+
+----- New package -----
+Type: letter
+Shipping Viability: Ready to ship
+Package info: 
+• Tracking Number: 211160, Weight: 1, Length:1, Width:1
+Package was loaded successfully
+
+----- New package -----
+Type: unknown
+Package info:
+Tracking Number: 324566
+214
+33
+55
+77
+Package was not loaded because Package type is unknown
+
+----- New package -----
+Type: wooden crate
+Shipping Viability: Package is too big!
+Package info: 
+• Tracking Number: 123443, Weight: 250, Length:24, Width:24, Height: 36, Contents: not fragile
+Package was not loaded because Package is too big
+
+----- New package -----
+Type: metal crate
+Shipping Viability: Package is too big!
+Package info: 
+• Tracking Number: 2198412, Weight: 424, Length:24, Width:76, Height: 13, Contents: cargo
+Package was not loaded because Package is too big
+
+----- New package -----
+Type: letter
+Shipping Viability: Ready to ship
+Package info: 
+• Tracking Number: 21498120, Weight: 3, Length:3, Width:8
+Package was loaded successfully
+
+----- New package -----
+Type: box
+Shipping Viability: Ready to ship
+Package info: 
+• Tracking Number: 123421, Weight: 5, Length:7, Width:6, height: 5
+Package was loaded successfully
+
+----- New package -----
+Type: metal crate
+Shipping Viability: Truck is full!
+Package info: 
+• Tracking Number: 209842, Weight: 66, Length:12, Width:12, Height: 12, Contents: cargo
+Package was not loaded because Truck is full
+
+----- New package -----
+Type: letter
+Shipping Viability: Truck is full!
+Package info: 
+• Tracking Number: 123410, Weight: 11, Length:11, Width:3
+Package was not loaded because Truck is full
+
+
+Packages loaded on 2018-02-14 at 22:05:06.145
+Driving:
+• Eating Doughnuts
+• Refilling Gas
+• Testing Autonomous Driving
+• Realizing you dropped a package 30 miles back
+• Blowout
+• Getting ready to get down
+• finally put final in every method argument
+• Brake Check
+• Calling Stu
+• Mid-life crisis
+• Finally getting back to where you were before the package mix-up
+• Bathroom Break
+Arrived at Destination!
+
+Unloading Truck...
+• Package 1: Tracking Number: 123421, Weight: 5, Length:7, Width:6, height: 5
+• Package 2: Tracking Number: 55555551, Weight: 99, Length:36, Width:36, height: 36
+• Package 3: Tracking Number: 211160, Weight: 1, Length:1, Width:1
+• Package 4: Tracking Number: 21498120, Weight: 3, Length:3, Width:8
+• Package 5: Tracking Number: 123450, Weight: 10, Length:12, Width:12
+• Package 6: Tracking Number: 123890, Weight: 20, Length:10, Width:10
+• Package 7: Tracking Number: 656562, Weight: 50, Length:36, Width:36, Height: 37, Contents: animal
+• Package 8: Tracking Number: 324251223, Weight: 50, Length:5, Width:5, Height: 5, Contents: fragile
+Packages unloaded

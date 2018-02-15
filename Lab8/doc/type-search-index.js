@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"cscd211Package.type","l":"Box"},{"p":"cscd211Package.type","l":"Crate"},{"p":"cscd211Lab8","l":"CSCD211Lab8"},{"p":"cscd211Package.type","l":"Letter"},{"p":"cscd211Package.type","l":"MetalCrate"},{"p":"cscd211Package.type","l":"Package"},{"p":"cscd211Package.vehicle","l":"Truck"},{"p":"cscd211Package.type","l":"WoodCrate"}]
