@@ -96,7 +96,7 @@ Package info:
 Package was not loaded because Truck is full
 
 
-Packages loaded on 2018-02-14 at 22:05:06.145
+Packages loaded on 2018-02-15 at 13:17:58.388
 Driving:
 • Eating Doughnuts
 • Refilling Gas

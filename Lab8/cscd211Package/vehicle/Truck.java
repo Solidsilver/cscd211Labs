@@ -5,7 +5,6 @@ import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.Arrays;
 import java.util.Scanner;
-
 import cscd211Package.type.Package;
 import cscd211Package.type.*;
 
@@ -16,6 +15,12 @@ public class Truck {
 	private Package[] thePackages;
 	
 	public Truck(final String driver, final int maxPackages) {
+		if (driver == null) {
+			throw new NullPointerException("Driver cannot be null");
+		}
+		if (driver.isEmpty() || maxPackages < 1) {
+			throw new IllegalArgumentException("Driver cannot be empty and maxPackages must be >=1");
+		}
 		this.driver = driver;
 		this.maxPackages = maxPackages;
 	}
@@ -33,6 +38,9 @@ public class Truck {
 	}
 	
 	public void drive(final PrintStream fout) {
+		if (fout == null) {
+			throw new NullPointerException("printstream cannot be null");
+		}
 		Arrays.sort(thePackages);
 		fout.println("\nPackages loaded on " + LocalDate.now() + " at " + LocalTime.now());
 		
@@ -46,6 +54,9 @@ public class Truck {
 	}//End drive
 	
 	public void load(final Scanner fin, final PrintStream fout) {
+		if (fin == null || fout == null) {
+			throw new NullPointerException("arguments cannot be null");
+		}
 		fout.println("Driver: " + this.driver);
 		fout.println("Truck Package Capacity: " + this.maxPackages + "\n");
 		this.thePackages = new Package[0];
@@ -79,7 +90,7 @@ public class Truck {
 			if (pack != null) {
 				fout.print(pack.getType() + "\n");
 				fout.print("Shipping Viability: ");
-				if (pack.getTooBig()) {
+				if (pack.checkSize()) {
 					added = false;
 					errReason = "Package is too big";
 					fout.println(errReason + "!");
@@ -127,6 +138,9 @@ public class Truck {
 	}
 	
 	public void unload(final PrintStream fout) {
+		if (fout == null) {
+			throw new NullPointerException("printstream cannot be null");
+		}
 		fout.println("Unloading Truck...");
 		for (int ix = 0; ix < this.thePackages.length; ix++) {
 			fout.println("• Package " + (ix+1) + ": " + this.thePackages[ix]);
